@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\Ziad Behairy\Downloads\Minesweeper_PCB-main\Minesweeper_PCB-main\gerber\control\Control_PCB-F_Cu.gbr'.
+Plotted to 'C:\Users\Ziad Behairy\Downloads\Minesweeper_PCB-main\Minesweeper_PCB-main\gerber\control\Control_PCB-B_Cu.gbr'.
+Plotted to 'C:\Users\Ziad Behairy\Downloads\Minesweeper_PCB-main\Minesweeper_PCB-main\gerber\control\Control_PCB-F_Paste.gbr'.
+Plotted to 'C:\Users\Ziad Behairy\Downloads\Minesweeper_PCB-main\Minesweeper_PCB-main\gerber\control\Control_PCB-B_Paste.gbr'.
+Plotted to 'C:\Users\Ziad Behairy\Downloads\Minesweeper_PCB-main\Minesweeper_PCB-main\gerber\control\Control_PCB-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\Ziad Behairy\Downloads\Minesweeper_PCB-main\Minesweeper_PCB-main\gerber\control\Control_PCB-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\Ziad Behairy\Downloads\Minesweeper_PCB-main\Minesweeper_PCB-main\gerber\control\Control_PCB-F_Mask.gbr'.
+Plotted to 'C:\Users\Ziad Behairy\Downloads\Minesweeper_PCB-main\Minesweeper_PCB-main\gerber\control\Control_PCB-B_Mask.gbr'.
+Plotted to 'C:\Users\Ziad Behairy\Downloads\Minesweeper_PCB-main\Minesweeper_PCB-main\gerber\control\Control_PCB-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\Ziad Behairy\Downloads\Minesweeper_PCB-main\Minesweeper_PCB-main\gerber\control\Control_PCB-job.gbrjob'.
+Info: Done.
